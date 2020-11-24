@@ -1,19 +1,39 @@
-# Byenvini sou FiziЖreyòl (Fizik Kreyòl) !
+# FizikKreyol
 
-Sit sa se yon sit edikatif, ki branche sou Fizik ak lasyans an jeneral.  Nou vize yon piblik etidyan men n ap travay pou nou ekri sit sa yon jan pou majorite moun ka konprann, e vin renmen Fizik epi leve yon pi gro enterè pou lasyans an jeneral.
+This repository is used to manage the code source of the website FizikKreyol.
 
-Nou konsyan majorite moun ki pa fini klas yo oubyen ki pa fè etid inivèsitè nan domèn syans di ( Matematik, Fizik, Chimi elatriye) ka gen yon move souvni de matyè sa yo nan lekòl. Nou swete sit sa a ap fè yo wè lasyans ak Fizik an patikilye se bagay ki byen enteresan e ki pa fòseman difisil. 
+As you may know, this website is a project to bring up to date pedagogic information
+about physics and math in Haitian creole for the greater good of the young (and not so young) haitians.
 
-Nou chwazi ekri an kreyòl ayisyen, paske nou kwè kreyòl se lang ki ini tout ayisyen jan li di nan atik 5 nan konstitiyon Ayiti.
+If you want to contribute to that project, (even by pointing out our mistakes) your are welcomed !
 
-Nou chwazi ekri an kreyòl ayisyen paske nou kwè li pi fasil pou moun aprann nan lang manman yo, e nou rekonet  majorite moun ki leve Ayiti, se lang sa yo premye pale.
 
-Nou chwazi ekri an kreyòl ayisyen pou nou kore lang sa a nou renmen an, pou nou balanse kantite literati syantifik, liv lekòl ak liv inivèsite ki ekri nan lang fransè. Fransè ak kreyòl se 2 lang nou genyen, kidonk fòk popilasyon an ka jwenn konesans nan 2 lang sa ke yo pale.
+In that case, please send us a message, we speak Haitian Creole, French and English (possibly others!).
+This is currently a benevole project, for which we are spending our free time, aside of our daily work and activities,
+so you may experience some delay between your message and our answers.
 
-Nou chwazi ekri an kreyòl ayisyen pou pèmet moun ki pral li sit sa dekouvri Fizik yon lòt jan, pou nou pèmet yo wè  fizik (ak lasyans) se pa yon bagay blan (etranje) se yon syans inivèsèl ki ka ekri nan tout lang, pou nou retire baryè mantal ki fè kèk moun wè lasyans tankou yon bagay ki lwen, ki pou save.
+## How to contribute to the website 
 
-Kreyòl pale, kreyòl konprann !!!
+- First, if you would have to create a GitHub account, if you do not have already one. The free version should suffice.
+  
+- You can clone the repository in your local machine.  [A GitHub resource about cloning repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+  
+- You can edit all the files needed in your local machine, with you preferred editor.
 
-Nou konnen pwovèb ki di "Sa pòv genyen, se li l pot nan mache". Nap mete sou sit la sa nou konnen nan lasyans, men nou genyen pwòp limit pa nou. Kidonk pa ezite kontakte responsab sit la, pou tout erè nou wè, konsèy nou ta vle pote.  "Yon sèl dwèt pa manje kalalou". 
+- The files that you want to edit will probably resides in the 'docs' folder. We are currently using [Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+- You **commit** these changes in a branch. If needed, see that [Git tutorial](https://git-scm.com/docs/gittutorial).
+  
+- After *testing* your changes, you can **push** your branch to the remote repository.
+  
+- And then you create a [**pull request**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) against the **main** branch. Make sure to ask one the repository administrator to review your work.
+  
+- After review and approval, you or the administrator will [**squash**](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-merge-methods-on-github) your branch into master.
+  
+- You have done an **amazing work** !!!
 
-Nap koute tout konsèy, e nap eseye korije rapidman tout erè nou t a va jwenn. "Mande chimen pa vle di pèdi pou sa.".
+This is of course a public repository but we would greatly appreciate to have an informal exchange with you, before your pull request.
+
+At any moment, depending of our resources, we could turn this one into a private repository.
+
+## Byenvini e mèsi ! Bienvenue et merci ! Welcome and thank you!
