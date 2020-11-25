@@ -1,7 +1,8 @@
-<nav>
+<div class="topnav">
     {% for item in site.data.navigation %}
-      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+      <a href="{{LOCAL_HOME_PAGE}}{{ item.link }}" {% if page.url == item.link %}style="color: green;"{% endif %}>
         {{ item.name }}
       </a>
+      
     {% endfor %}
-</nav>
+</div>
