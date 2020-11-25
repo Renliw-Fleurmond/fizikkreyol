@@ -28,7 +28,7 @@ so you may experience some delay between your message and our answers.
   
 - And then you create a [**pull request**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) against the **main** branch. Make sure to ask one the repository administrator to review your work.
   
-- After review and approval, you or the administrator will [**squash**](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-merge-methods-on-github) your branch into master.
+- After review and approval, you or the administrator will [**squash**](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-merge-methods-on-github) your branch into the **main** branch.
   
 - You have done an **amazing work** !!!
 
