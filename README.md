@@ -7,7 +7,6 @@ about physics and math in Haitian creole for the greater good of the young (and 
 
 If you want to contribute to that project, (even by pointing out our mistakes) your are welcomed !
 
-
 In that case, please send us a message, we speak Haitian Creole, French and English (possibly others!).
 This is currently a benevole project, for which we are spending our free time, aside of our daily work and activities,
 so you may experience some delay between your message and our answers.
@@ -23,10 +22,10 @@ so you may experience some delay between your message and our answers.
 - The files that you want to edit will probably resides in the 'docs' folder. We are currently using [Markdown](https://guides.github.com/features/mastering-markdown/)
   
 - You **commit** these changes in a branch. If needed, see that [Git tutorial](https://git-scm.com/docs/gittutorial).
-  
+
 - After *testing* your changes, you can **push** your branch to the remote repository.
   
-- And then you create a [**pull request**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) against the **main** branch. Make sure to ask one the repository administrator to review your work.
+- And then you create a [**pull request**](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) against the **main** branch. Make sure to ask one of the repository administrator to review your work.
   
 - After review and approval, you or the administrator will [**squash**](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-merge-methods-on-github) your branch into the **main** branch.
   
@@ -36,4 +35,4 @@ This is of course a public repository but we would greatly appreciate to have an
 
 At any moment, depending of our resources, we could turn this one into a private repository.
 
-## Byenvini e mèsi ! Bienvenue et merci ! Welcome and thank you!
+## Byenvini e mèsi ! Bienvenue et merci ! Welcome and thank you !
