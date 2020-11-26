@@ -6,11 +6,11 @@ Sit sa se yon sit edikatif, ki branche sou Fizik ak lasyans an jeneral.  Nou vi
 
 - Nou chwazi ekri an **kreyòl ayisyen**, paske nou kwè kreyòl se lang ki ini tout ayisyen jan li di nan atik 5 nan konstitiyon Ayiti.
 
-- Nou chwazi ekri an **kreyòl ayisyen** paske nou kwè li pi fasil pou moun aprann nan lang manman yo, e nou rekonet  majorite moun ki leve Ayiti, se lang sa yo premye pale.
+- Nou chwazi ekri an **kreyòl ayisyen** paske nou kwè li pi fasil pou moun aprann nan lang manman yo, e nou rekonèt majorite moun ki leve Ayiti, se lang sa yo premye pale.
 
-- Nou chwazi ekri an **kreyòl ayisyen** pou nou kore lang sa a nou renmen an, pou nou balanse kantite literati syantifik, liv lekòl ak liv inivèsite ki ekri nan lang fransè. *Fransè ak kreyòl se 2 lang ke nou genyen*, kidonk fòk popilasyon an ka jwenn konesans nan 2 lang sa ke yo pale.
+- Nou chwazi ekri an **kreyòl ayisyen** pou nou kore lang sa a nou renmen an, pou nou balanse kantite literati syantifik, liv lekòl ak liv inivèsite ki ekri nan lang fransè. *Fransè ak kreyòl se 2 lang nou genyen*, kidonk fòk popilasyon an ka jwenn konesans nan 2 lang sa yo pale.
 
-- Nou chwazi ekri an **kreyòl ayisyen** pou pèmet moun ki pral li sit sa dekouvri Fizik yon lòt jan, pou nou pèmet yo wè fizik (ak lasyans), se yon syan inivèsel ke yo ka itilize, ki pa gen mèt,  ke se pa yon bagay blan (etranje), ke li ka ekri nan tout lang, pou nou retire baryè mantal ki fè kèk moun wè lasyans tankou yon bagay ki lwen, ki pou neg ki gen lespri sèlman.
+- Nou chwazi ekri an **kreyòl ayisyen** pou pèmet moun ki pral li sit sa dekouvri Fizik yon lòt jan, pou nou pèmet yo wè fizik (ak lasyans), se yon syans inivèsel yo ka itilize, ki pa gen mèt,  ke se pa yon bagay blan (etranje), li ka ekri nan tout lang, pou nou retire baryè mantal ki fè kèk moun wè lasyans tankou yon bagay ki lwen, ki pou neg ki gen lespri sèlman.
 
 > Kreyòl pale, kreyòl konprann !!!
 
