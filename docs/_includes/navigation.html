@@ -31,6 +31,6 @@
     }
   </style>
   {% for item in site.data.navigation %}
-     <a href="{{ 'fizikkreyol'| append: item.link }}" {% if item.link == page.url %}class="active"{% endif %}>{{ item.name }}</a>
+     <a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>{{ item.name }}</a>
   {% endfor %}
 </div>
