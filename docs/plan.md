@@ -1,5 +1,5 @@
 ---
-permalink: /plan
+permalink: /plan/
 ---
 
     Matematik pou Fizik
