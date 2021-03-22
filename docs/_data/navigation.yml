@@ -1,4 +1,8 @@
 - name: Lakay
   link: /
-- name: "Kiyes nou ye"
+- name: "Kiyès nou ye"
   link: /about/
+- name: "Fizik an kreyòl"
+  link: /introduction/
+- name: "Tab matyè"
+  link: /plan/
