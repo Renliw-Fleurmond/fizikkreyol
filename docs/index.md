@@ -1,7 +1,3 @@
----
-permalink: /
----
-
 # Byenvini sou FiziЖreyòl (Fizik Kreyòl)
 
 Sit sa se yon sit edikatif, ki branche sou Fizik ak lasyans an jeneral.  Nou vize yon piblik etidyan men n ap travay pou nou ekri sit sa yon jan pou majorite moun ka konprann, e vin renmen Fizik epi leve yon pi gro enterè pou lasyans an jeneral.
