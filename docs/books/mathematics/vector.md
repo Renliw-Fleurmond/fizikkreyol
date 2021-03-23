@@ -7,7 +7,7 @@ Nou ka sèvi ak eksalè pou mezire kèk grandè fizik tankou longè, mas, tan el
 
 Imajine nou nan yon pyès kay, epi atè a kouvri ak kawo seramik, oubyen mozayik. Kijan ou ta di yon moun ki kote yon bagay ye nan pyès sa a? Ki kote **A**, **B** ak **C** ye ?
 
-![Imaj plizyè pwen nan yon kadriyaj](/assets/vector/pozisyon.png)
+![Imaj plizyè pwen nan yon kadriyaj](/fizikkreyol/assets/vector/pozisyon.png)
 
 Pou nou ka bay pozisyon wonn koulè yo, nou ka konte kawo pou sòti nan yon pozisyon pou nou rive nan yon lòt pozisyon. Men pou nou ka bay pozisyon ki klè pou tout moun , nou oblije mete nou dakò sou kèk bagay: 
 
@@ -17,7 +17,7 @@ Pou nou ka bay pozisyon wonn koulè yo, nou ka konte kawo pou sòti nan yon pozi
 
 Fizisyen yo ka rele sa yon **referansyèl**. N ap tounen sou sa pita.
 
-![Imaj plizyè pwen nan yon kadriyaj](/assets/vector/pozisyon_referans.png)
+![Imaj plizyè pwen nan yon kadriyaj](/fizikkreyol/assets/vector/pozisyon_referans.png)
 
 Nan desen sa a nou wè nou ranje kò nou, pou nou byen defini pozisyon yo.
 
@@ -42,7 +42,7 @@ Gwoup de chif sa yo (ki se eskalè) reprezante direkyon ak distans **wonn ble** 
 
 Kòm nou nan matematik, an nou mete tèt nou nan yon kad ki pi jeneral. N ap rele direksyon dwat la x, epi direksyon devan an y, epi n ap rele pozisyon wonn ble a **A**. Nou ka itilize reprezantayon ki trè kouran kay fizisyen yo ak matematisyen yo.
 
-![Desen vektè nan yon baz vektoryel X, Y](/assets/vector/vektè_xy.png)
+![Desen vektè nan yon baz vektoryel X, Y](/fizikkreyol/assets/vector/vektè_xy.png)
 
 Lè nou pale de pozisyon, an matematik nou rele sa pwen. Nan chema sa a nou ka wè 4 wonn koulè ki reprezante 4 pwen : **O**, **A**, **B** ak **C**.
 
@@ -62,7 +62,7 @@ Si nou byen gade imaj la, nou ka wè vektè $$\overrightarrow{BC}$$ ak vektè $$
 
 $$\overrightarrow{BC} = \begin{bmatrix} 8 \\ 9 \end{bmatrix} - \begin{bmatrix} 3 \\ 7 \end{bmatrix} = \begin{bmatrix} 5 \\ 2 \end{bmatrix}$$
 
-![Desen plizyè vektè](/assets/vector/anpil_vektè_xy.png)
+![Desen plizyè vektè](/fizikkreyol/assets/vector/anpil_vektè_xy.png)
 
 Men sa pa fini la. Jan imaj la montre li, nou ka konbine 2 vektè, egzanp $$\overrightarrow{OA}$$ ak $$\overrightarrow{OB}$$ pou bay yon lòt vektè: $$\overrightarrow{OC}$$ . Men kijan konbinezon an mache: Ou soti nan **O** ou deplase al nan **A**(sa vle di ou mache sou 5 kawo nan direksyon x, epi ou mache 2 kawo nan direksyon y), pandan w nan **A** ou avanse sou 3 inite nan direksyon x la, epi ou deplase 7 inite nan direksyon y la . Pozisyon ou rive a se **C** (8 kawo nan direksyon x, 9 kawo nan direksyon y).
 
@@ -80,7 +80,7 @@ $$\begin{bmatrix} 5 \\2 \end{bmatrix} + \begin{bmatrix} 3 \\ 7 \end{bmatrix} = \
 
 Pa egzamp si nou menm imajine menm pyès lan, men yo te mete seramik yo an dyagonal. Pozisyon pwen yo pa chanje, men jan nou ka bay kowòdone pwen an, li menm ap chanje.
 
-![pwen_lozanj](/assets/vector/pwen_lozanj.png)
+![pwen_lozanj](/fizikkreyol/assets/vector/pwen_lozanj.png)
 
 Nan premye kadriyaj lan, nou te chwazi direksyon **Dwat** ak **Devan**. Si nou chwazi yon lòt referansyèl, ak orijin nan **O**, men de lòt direksyon n ap rele **Ana** ak **Kata**. Nan referansyèl sila, kowòdone pwen yo chanje menm si pwen yo pa deplase. Si nou pran direksyon **Ana** an premye ak direksyon **Kata** an dezyèm nou ka ekri kowòdone pwen yo:
 
@@ -88,7 +88,7 @@ $$O=\begin{bmatrix} 0.0 \\ 0.0 \end{bmatrix},A=\begin{bmatrix} 3.5 \\ -1.5 \end{
 
 Operasyon sa a pote **chanjman repè**. Se yon nosyon ki enpòtan pou yon mou k ap fè Fizik.
 
-![anpil_vektè_lozanj](/assets/vector/anpil_vektè_lozanj.png)
+![anpil_vektè_lozanj](/fizikkreyol/assets/vector/anpil_vektè_lozanj.png)
 
 Nou ka remake adisyon vektoryèl la, toujou valab nan referansyèl sa a:
 
