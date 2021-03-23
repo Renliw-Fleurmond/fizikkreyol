@@ -8,7 +8,7 @@ Yon eskalè se yon nonb reyèl, sa vle di yon eleman nan ansanm $$\mathbb{R}$$. 
 
 $$ \pi=3.14159... $$
 
-> ![Desen yon règ gradye](/fizikkreyol/scalar/scalaire.png)
+![Desen yon règ gradye](/assets/scalar/scalaire.png)
 
 Eskalè yo obeyi anba lwa operasyon aljèb nou abitye yo, tankou:
 
@@ -35,6 +35,6 @@ Gen anpil fwa, mezi yo konn bay gwo nonb ou byen nonb ki piti anpil, se pou sa s
 
 Men eskalè pa sifi pou dekri tout bagay, pa egzanp nan desen sa kijan moun nan ki nan kwen pyès la ka di ki kote bwat la ak poubèl la ye ?
 
-> ![Desen yon pyès kay](/fizikkreyol/scalar/bezwen_vektè.png)
+![Desen yon pyès kay](/assets/scalar/bezwen_vektè.png)
 
 Pou li fè sa, fòk li bay nan ki direksyon e nan ki distans bwat la ye pa rapò ak li ou byen pa rapò ak kwen sal la. Gen yon konsèp matematik ki mete yon sèl kote tou 2 enfòmasyon sa yo, ki rele [vektè](/fizikkreyol/maths/vector). Men n ap wè konsèp sa ka fè anpil lòt bagay toujou.
