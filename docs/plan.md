@@ -1,14 +1,13 @@
 ---
 permalink: /plan/
 ---
-
 # Tab matyè
 
-- [Matematik pou Fizik](/maths/maths)
+- [Matematik pou Fizik](/fizikkreyol/maths/maths)
 
-  - Ti nosyon [Aljèb](/maths/algebra)
-    - [Eskalè](/maths/scalar)
-    - [Vektè](/maths/vector)
+  - Ti nosyon [Aljèb](/fizikkreyol/maths/algebra)
+    - [Eskalè](/fizikkreyol/maths/scalar)
+    - [Vektè](/fizikkreyol/maths/vector)
     - Espas vektoryèl
     - Pwodwi eskalè
     - Baz vektoryèl
