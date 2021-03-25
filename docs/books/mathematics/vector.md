@@ -48,9 +48,9 @@ Lè nou pale de pozisyon, an matematik nou rele sa pwen. Nan chema sa a nou ka w
 
 Si nou nan pozisyon **O**, pou nou ale nan pozisyon **A**, fòk nou fè yon deplasman ki reprezante sou chema a ak yon flèch ble. Flèch sa reprezante yon vektè. Yon vektè, nan kad sa a, reprezante yon grandè ak yon oryantasyon. Nan egzanp sa a se longè ak direksyon pou w mache pou w sòti nan **O** pou al nan **A**. Si nou di chif x la se li ki an premye, nou ka ekri vektè sa a konsa:
 
-$$\overrightarrow{OA} = \begin{bmatrix} 5 \\ 2 \end{bmatrix} - \begin{bmatrix} 0 \\ 0 \end{bmatrix}$$
+$$\overrightarrow{OA} = \begin{bmatrix} 5 - 0 \\ 2 - 0 \end{bmatrix}$$
 
-$$\overrightarrow{OA} = \begin{bmatrix} 5 \\ 2 \end{bmatrix}.$$
+$$\overrightarrow{OA} = \begin{bmatrix} 5 \\ 2 \end{bmatrix}$$
 
 Nan imaj la nou ka wè plizyè lòt vektè (Nan egzanp sa a se deplasman depi yon pwen pou rive nan yon lòt.):
 
@@ -60,7 +60,7 @@ $$\overrightarrow{OC} = \begin{bmatrix} 8 \\ 9 \end{bmatrix}$$
 
 Si nou byen gade imaj la, nou ka wè vektè $$\overrightarrow{BC}$$ ak vektè $$\overrightarrow{OA}$$ se menm vektè a. Menm deplasman ou fè pou sòti nan **O** pou rive nan **A** a, se menm deplasman an ou fè, pou sòti nan **B** pou rive nan **C**. Nan matematik yo di $$\overrightarrow{OA}$$ ak $$\overrightarrow{BC}$$ se de vektè ekipolan menm jan an tou $$\overrightarrow{OB}$$ ak $$\overrightarrow{AC}$$ se de vektè ekipolan. Ekipolan an vle di yo gen menm longè ak menm oryantasyon.
 
-$$\overrightarrow{BC} = \begin{bmatrix} 8 \\ 9 \end{bmatrix} - \begin{bmatrix} 3 \\ 7 \end{bmatrix} = \begin{bmatrix} 5 \\ 2 \end{bmatrix}$$
+$$\overrightarrow{BC} = \begin{bmatrix} 8 - 3\\ 9 - 7 \end{bmatrix} = \begin{bmatrix} 5 \\ 2 \end{bmatrix}$$
 
 ![Desen plizyè vektè](/fizikkreyol/assets/vector/anpil_vektè_xy.png)
 
@@ -96,6 +96,8 @@ $$\overrightarrow{OA}+ \overrightarrow{OB}= \overrightarrow{OC}$$
 
 $$\begin{bmatrix}3.5 \\ -1.5 \end{bmatrix} + \begin{bmatrix} 5 \\ 2 \end{bmatrix} = \begin{bmatrix} 8.5 \\ 0.5 \end{bmatrix}$$
 
-Sa vle di nou ka fè operasyon matematik ak vektè san nou pa bezwen konn nan ki referansyèl n ap travay. Yon vektè se yon eleman nan yon ansanm ki pote non espas vektoryèl.
+Sa vle di nou ka fè operasyon matematik ak vektè san nou pa bezwen konn nan ki referansyèl n ap travay. 
+
+Yon vektè se yon eleman nan yon ansanm ki pote non espas vektoryèl.
 
 Nan egzanp nou bay la, nou travay ak vektè ki genyen **2** dimansyon (2 chif) men nan matematik yon vektè ka gen nenpòt kantite dimansyon.
