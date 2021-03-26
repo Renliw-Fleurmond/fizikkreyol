@@ -7,23 +7,28 @@
         }
 
         .previousnext a:hover {
-            background-color: #ddd;
-            color: black;
+            background-color: #ccc;
+            color: gray;
         }
 
-        .previousnext .round {
-            background-color: #4CAF50;
-            border-radius: 50%;
+        .previousnext .button {
+            background-color: #c3f5c4;
+            width: 16px;
+            height: 32px;
+            text-align: center;
+            display: inline-block;
+            margin-top: 10px;
+            padding-top: 2px;
         }
     </style>
 
     {% assign root_link = '/fizikkreyol' %}
     {% assign tempo_base_link = relative_url | append: root_link %}
     {% if page.previous %}
-    <a href="{{ tempo_base_link | append: page.previous }}" class="round">&#8249;</a>
+    <a href="{{ tempo_base_link | append: page.previous }}" class="button">&lt;</a>
     {% endif %}
     {% if page.next %}
-    <a href="{{ tempo_base_link | append: page.next }}" class="round" style="float: right;">&#8250;</a>
+    <a href="{{ tempo_base_link | append: page.next }}" class="button" style="float: right;">&gt;</a>
     {% endif %}
     <br>
 </div>
