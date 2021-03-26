@@ -19,10 +19,10 @@ Nou ka wè gen yon pakèt pati nan matematik ki sòti nan etidye bagay ki konkr�
 
 Se pou rezon sa nou pran tan isi a pou pale de kek nosyon matematik ki enpòtan anpil pou travay nan fizik ak nan lòt syans.
 
-Nou pral konsantre sou kek nosyon [aljèb](/maths/algebra) ak jeyometri:
+Nou pral konsantre sou kek nosyon [aljèb](/fizikkreyol/maths/algebra) ak jeyometri:
 
-Nan aljèb nou pral pale de [eskalè](/maths/scalar), de [vektè](/maths/vector) ak kek operasyon matematik nou ka itilize pou manipile konsèp sa yo.
+Nan aljèb nou pral pale de [eskalè](/fizikkreyol/maths/scalar), de [vektè](/fizikkreyol/maths/vector) ak kek operasyon matematik nou ka itilize pou manipile konsèp sa yo.
 
-Nan jeyometri, nou pral montre kijan [vektè](/maths/vector) ak lot objè matematik tankou rotasyon ki ka ede nou reprezante lespas ke nou itilize nan fizik.
+Nan jeyometri, nou pral montre kijan [vektè](/fizikkreyol/maths/vector) ak lot objè matematik tankou rotasyon ki ka ede nou reprezante lespas ke nou itilize nan fizik.
 
-Men tout konsèp nap diskite isi a, gen plas yo nan [aljèb](/maths/algebra), nap plis konsantre sou entèpretasyon jeyometrik ou ka fè.
+Men tout konsèp nap diskite isi a, gen plas yo nan [aljèb](/fizikkreyol/maths/algebra), nap plis konsantre sou entèpretasyon jeyometrik ou ka fè.
