@@ -20,10 +20,10 @@
     {% assign root_link = '/fizikkreyol' %}
     {% assign tempo_base_link = relative_url | append: root_link %}
     {% if page.previous %}
-    <a href="{{ tempo_base_link | append: page.previous }}" class="previous round">&#8249;</a>
+    <a href="{{ tempo_base_link | append: page.previous }}" class="round">&#8249;</a>
     {% endif %}
     {% if page.next %}
-    <a href="{{ tempo_base_link | append: page.next }}" class="next round" style="float: right;">&#8250;</a>
+    <a href="{{ tempo_base_link | append: page.next }}" class="round" style="float: right;">&#8250;</a>
     {% endif %}
     <br>
 </div>
