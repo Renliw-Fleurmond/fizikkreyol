@@ -24,7 +24,7 @@ $$f(\vec{u}, \vec{v}) \neq f(\vec{v}, \vec{u})$$
 
 $$\|\vec{u}\| \cos (\theta) \neq \|\vec{v}\| \cos (\theta)$$
 
-Pou fonksyon a pa depann de lòd la, an nou chanje fonksyon an yon ti jan, nap miltipliye pati vektè \vec{u} ki al nan sans vektè $$\vec{v}$$ avek longè vektè $$\vec{v}$$:
+Pou fonksyon a pa depann de lòd la, an nou chanje fonksyon an yon ti jan, nap miltipliye pati vektè $$\vec{u}$$ ki al nan sans vektè $$\vec{v}$$ avek longè vektè $$\vec{v}$$:
 
 $$f(\vec{u}, \vec{v}) =   \|\vec{u}\|   \|\vec{v}\|\cos (\theta)$$
 
