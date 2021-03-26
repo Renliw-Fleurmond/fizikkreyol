@@ -12,11 +12,11 @@ $$ \pi=3.14159... $$
 
 Eskalè yo obeyi anba lwa operasyon aljèb nou abitye yo, tankou:
 
-- **Adisyon**:    $$3 + 4 = 7$$
+- **Adisyon**: $$3 + 4 = 7$$
 
 - **Soustraksyon**: $$7 - 3 = 4$$
 
-- **Mitiplikasyon** $$6 \times 7 = 42$$
+- **Mitiplikasyon**: $$6 \times 7 = 42$$
 
 - **Divizyon**: $$\dfrac{12}{3} = 4$$
 
