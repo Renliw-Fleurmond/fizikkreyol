@@ -10,6 +10,8 @@ Nan desen ki anba a, nou ka reprezante yon vektè ki gen 2 dimansyon. Nan desen 
 
 $$\vec{v} = \begin{bmatrix} 4 \\ 3 \end{bmatrix}$$
 
+![espas_vektoryel](/home/renliw/Documents/Projets/FizikKreyol/docs/assets/vector_space/espas_vektoryel.png)
+
 Nan ansanm vektoryèl, nou genyen yon adisyon vektoryèl ki komitatif, sa vle di lòd la pa enpòtan:
 
 $$\vec{w} = \vec{u} + \vec{v} = \vec{v} + \vec{u}$$
@@ -17,6 +19,8 @@ $$\vec{w} = \vec{u} + \vec{v} = \vec{v} + \vec{u}$$
 Adisyon de vektè bay yon lòt vektè. Se menm adisyon nou te bay egzanp la nan paj vektè a.
 
 $$\vec{u} + \vec{v} = \begin{bmatrix} 2.0 \\ 0.5 \end{bmatrix} + \begin{bmatrix} 1.5 \\ 2.0 \end{bmatrix} = \begin{bmatrix} 3.5 \\ 2.5 \end{bmatrix}$$
+
+![adisyon_vektoryel](/home/renliw/Documents/Projets/FizikKreyol/docs/assets/vector_space/adisyon_vektoryel.png)
 
 Nan yon ansanm (makòn) vektoryèl, genyen yon vektè ki spesyal, ki rele vektè nil $$\vec{0}$$. Ou mèt pran nenpot ki vektè $$\vec{v}$$ ou adisyone li avek vektè nil, lap reba ou menm vektè $$\vec{v}$$ a toujou:
 
@@ -36,6 +40,8 @@ Lè w miltipliye yon vektè ak yon eskalè, sa bay yon lòt vektè, menm jan nou
 
 $$3 \times \begin{bmatrix} 1.5 \\ 1.0 \end{bmatrix} = \begin{bmatrix} 4.5 \\ 3.0 \end{bmatrix}$$
 
+![mitiplikasyon_vektoryel](/home/renliw/Documents/Projets/FizikKreyol/docs/assets/vector_space/mitiplikasyon_vektoryel.png)
+
 Fok nou remake ke si nou miltpliye nenpot ki vektè pa zero, rezilta bay **vektè nil**.
 
 $$0 \times \vec{v} = \vec{0}$$
@@ -54,6 +60,8 @@ Sa rele yon **konbinezon lineyè**.
 
 Nan yon espas vektoryèl, ou toujou ka jwen yon ti gwoup vektè (**yo rele sa yon fanmi vektè**) ki ka ba w nenpòt ki vektè w vle, ak yon konbinezon lineyè. Nou ka di li yon lòt jan: kèlkeswa vektè w pran nan espas vektoryèl la, li se yon konbinezon lineyè de fanmi vektè sa. Lè sa yo di fanmi vektè sa a **jeneratris**.
 
+![baz_vektoryel](/fizikKreyol/assets/vector_space/baz_vektoryel.png)
+
 Pa egzanp si nou pran vektè $$\vec{i}$$ ak vektè $$\vec{j}$$, jan nou wè nan desen sa a nou ka ekri vektè $$\vec{v}$$ tankou yon konbinezon lineyè:
 
 $$\vec{v} = 4 \times \vec{i} + 3 \times \vec{j}$$
@@ -64,11 +72,15 @@ M panse n ap sispèk deja, nou te ka jwenn yon lòt fanmi vektè ki ka bay nenp�
 
 $$\vec{v} = 3 \times \vec{k} + 1 \times \vec{l}$$
 
+![lot_baz_vektoryel](/fizikKreyol/assets/vector_space/lot_baz_vektoryel.png)
+
 Yon fanmi vektè ka gen plis pase 2 vektè ladan li. Kidonk, nou te ka pran tou vektè sa yo $$\vec{i}$$, $$\vec{j}$$, $$\vec{k}$$ ak $$\vec{l}$$ nan yon sèl fanmi. Men fanmi sa a pa tab lib sa vle di nou te ka jwenn manm nan fanmi sa a ki ka ekri tankou konbinezon lineyè lòt manm nan fanmi an.
 
 $$\vec{k} = 1.5 \vec{i} + 0.5 \vec{j}$$
 
 $$\vec{l} = -0.5 \vec{i} + 1.5 \vec{j}$$
+
+![fanmi_vektoryel](/fizikKreyol/assets/vector_space/fanmi_vektoryel.png)
 
 Pou yon fanmi vektè ka rele yon **baz vektoryèl**,
 
