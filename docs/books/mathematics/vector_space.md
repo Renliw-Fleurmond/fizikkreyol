@@ -1,5 +1,7 @@
 ---
 permalink: /maths/vector_space
+previous: /maths/vector
+next: /maths/dot_product
 ---
 
 # Espas vektoryèl

@@ -1,5 +1,7 @@
 ---
 permalink: /maths/algebra/
+previous: /maths/maths
+next: /maths/scalar
 ---
 
 # Aljèb

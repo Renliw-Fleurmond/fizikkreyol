@@ -1,5 +1,6 @@
 ---
 permalink: /maths/dot_product
+previous: /maths/vector_space
 ---
 # Pwodwi eksalè
 An nou imajine 2 [vektè](/fizikkreyol/maths/vector) $$\vec{u}$$ ak $$\vec{v}$$, kijan nou te ka konpare yo ?

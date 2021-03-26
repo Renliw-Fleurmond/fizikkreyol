@@ -1,5 +1,7 @@
 ---
 permalink: /maths/vector
+previous: /maths/scalar
+next: /maths/vector_space
 ---
 # Vektè
 

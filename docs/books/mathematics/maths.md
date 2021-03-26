@@ -1,5 +1,6 @@
 ---
 permalink: /maths/maths
+next: /maths/algebra
 ---
 
 # Matematik pou Fizik

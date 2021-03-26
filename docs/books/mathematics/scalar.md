@@ -1,5 +1,7 @@
 ---
 permalink: /maths/scalar
+previous: /maths/algebra
+next: /maths/vector
 ---
 
 # Eskalè
