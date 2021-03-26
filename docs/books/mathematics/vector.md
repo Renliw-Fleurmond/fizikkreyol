@@ -98,6 +98,6 @@ $$\begin{bmatrix}3.5 \\ -1.5 \end{bmatrix} + \begin{bmatrix} 5 \\ 2 \end{bmatrix
 
 Sa vle di nou ka fè operasyon matematik ak vektè san nou pa bezwen konn nan ki referansyèl n ap travay. 
 
-Yon vektè se yon eleman nan yon ansanm ki pote non espas vektoryèl.
+Yon vektè se yon eleman nan yon ansanm ki pote non [espas vektoryèl](/fizikkreyol/maths/vector_space).
 
 Nan egzanp nou bay la, nou travay ak vektè ki genyen **2** dimansyon (2 chif) men nan matematik yon vektè ka gen nenpòt kantite dimansyon.
