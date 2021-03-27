@@ -1,6 +1,7 @@
 ---
 permalink: /maths/affine_space
 previous: /maths/euclidean_space
+next: /maths/linear_application
 ---
 # Espas afin
 
