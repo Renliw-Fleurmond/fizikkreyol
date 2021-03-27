@@ -1,6 +1,7 @@
 ---
 permalink: /maths/dot_product_algebra
 previous: /maths/dot_product
+next: /maths/euclidean_space
 ---
 
 # Kalkil aljebrik yon pwodwi eskalè:
