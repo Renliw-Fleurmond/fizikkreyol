@@ -102,7 +102,7 @@ Nou ka ekri kondisyon sa yo matematikman:
 
 > **Dimansyon yon espas vektoryèl se kantite vektè ki genyen nan baz vektoryèl li.**
 
-> **Kowòdone yon vektè toujou defini pa rapò ak yon baz vektoryèl**. Pa egzanp lè nou ekri ke yon vektè gen kowòdone $$\vec{v} = \begin{bmatrix} a \\ b \end{bmatrix}$$ nan baz vektoryèl ($$\vec{i}$$, $$\vec{j}$$), se menm bagay ke si nou te ekri $$\vec{v} = a  \vec{i} + b  \vec{i}$$
+> **Kowòdone yon vektè toujou defini pa rapò ak yon baz vektoryèl**. Pa egzanp lè nou ekri ke yon vektè gen kowòdone $$\vec{v} = \begin{bmatrix} a \\ b \end{bmatrix}$$ Fok nou presize ke se nan baz vektoryèl ($$\vec{i}$$, $$\vec{j}$$), e se menm bagay ke si nou te ekri $$\vec{v} = a  \vec{i} + b  \vec{i}$$
 
 Nou ka bay yon **definisyon matematik yon espas vektoryèl**
 

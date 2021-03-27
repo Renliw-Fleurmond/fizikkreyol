@@ -1,6 +1,7 @@
 ---
 permalink: /maths/dot_product
 previous: /maths/vector_space
+next: /maths/dot_product_algebra
 ---
 # Pwodwi eksalè
 An nou imajine 2 [vektè](/fizikkreyol/maths/vector) $$\vec{u}$$ ak $$\vec{v}$$, kijan nou te ka konpare yo ?
@@ -42,7 +43,7 @@ Sa ki ta vle di nou genyen (paske vektè $$\vec{v}$$ pa chanje:
 
 $$f(\vec{a} + \vec{b}, \vec{v}) = f(\vec{a}, \vec{v}) +  f(\vec{b}, \vec{v})$$
 
-Lè sa yo di ke fonksyon an distribiye adisyon an. Se menm karakteristik ke nou jwenn nan miltiplikasyon avek eskalè.
+Lè sa yo di ke fonksyon an **distribiye** adisyon an. Se menm karakteristik ke nou jwenn nan miltiplikasyon avek eskalè.
 
 $$a (b + c) = ab + ac$$
 
@@ -56,11 +57,12 @@ An nou gade pa egzanp imaj sila:
 
 ![miltiplikasyon_pwodwi_eskalè](/fizikkreyol/assets/dot_product/pwodwi_eskalè_miltiplikasyon.png)
 
-Nou wè ke si nou militpliye yon vektè $$\vec{a}$$ avek yon eskalè $$\lambda$$ pa egzanp, pati vektè $$\lambda \vec{a}$$ ki nan menm sans ak vektè $$\vec{v}$$ egal a $$\lambda$$ fwa pati vektè $$\vec{a}$$ ki nan menm sans ak vektè $$\vec{v}$$. Ki donk fonksyon nou an ap lineyè pa rapò ak chak nan vektè yo.
+Nou wè ke si nou militpliye yon vektè $$\vec{a}$$ avek yon eskalè $$\lambda$$ pa egzanp, pati vektè $$\lambda \vec{a}$$ ki nan menm sans ak vektè $$\vec{v}$$ egal a $$\lambda$$ fwa pati vektè $$\vec{a}$$ ki nan menm sans ak vektè $$\vec{v}$$. Ki donk fonksyon nou an ap lineyè pa rapò ak chak nan vektè yo. Yo rele sa **bilinearite**.
 
 Nou ka rezime fraz long sa ak yon fòmil matematik tou kout:
 
 $$f(\lambda \vec{u}, \vec{v}) =\lambda  f( \vec{u}, \vec{v}) = f( \vec{u},  \lambda \vec{v})$$
+
 
 Fonksyon nou an gen yon pakèt karakteristik miltiplikasyon genyen, nap rele fonksyon sa yon **pwodwi eskalè**. Se paske rezilta fonsksyon an se yon eskalè. Nou pral note pwodwi sa konsa:
 
@@ -73,20 +75,24 @@ Pwodwi eskalè sa genyen yon lot seri ti karakteristik.
 - Lè nou mete vektè nil nan yon pwodwi eskalè rezila bay zero.
 - Si nou fè pwodwi eskalè de menm vektè li bay longè vektè a o kare, ou byen sifas yon kare ki gen yon kote ki gen longè vektè a. $$\vec{u} \cdot \vec{u} = \|\vec{u}\|\|\vec{u}\| = {\|\vec{u}\|}^2$$
 
-**An rezime**, pwodwi eskalè se yon fonksyon vektoryèl ki pran 2 vektè pou li bay yon eskalè. Fonskyon sa ranpli kondisyon sa yo:
+**An rezime**, pwodwi eskalè se yon fonksyon vektoryèl ki pran 2 vektè pou li bay yon eskalè. Fonskyon sa dwe ranpli kondisyon sa yo:
 
-- Komitativite: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})=f(\stackrel{\rightarrow}{v}, \stackrel{\rightarrow}{u})$$
+- Komitativite ou byen simetri: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})=f(\stackrel{\rightarrow}{v}, \stackrel{\rightarrow}{u})$$
 
-- Miltiplikasyon: $$f(\stackrel{\rightarrow}{u}, \lambda \stackrel{\rightarrow}{v})= \lambda f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})$$
+- **Bilinearite**: $$f(\lambda \vec{u}, \vec{v}) =\lambda  f( \vec{u}, \vec{v}) = f( \vec{u},  \lambda \vec{v})$$
 
-- Adisyon: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v}+\stackrel{\rightarrow}{w})= f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})+f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{w})$$
+- Prodwi eskalè **positif**:  Si $$ \stackrel{\rightarrow}{u}\neq\stackrel{\rightarrow}{0}$$ ,$$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{u})>0$$
 
-- Prodwi eskalè ki nil: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{u})>0$$ si $$ \stackrel{\rightarrow}{u}\neq\stackrel{\rightarrow}{0}$$ epi $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{u})=0$$ si $$\stackrel{\rightarrow}{u}=\stackrel{\rightarrow}{0}$$
+Dapre definisyon li, li vinn gen yon propryete ki itil anpil
+
+- **Distribitivite adisyon**: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v}+\stackrel{\rightarrow}{w})= f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})+f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{w})$$
 
 - Kare eskalè: $$f(\stackrel{\rightarrow}{u},\stackrel{\rightarrow}{u}) = \|\stackrel{\rightarrow}{u}\|^2$$
 
-- Notasyon: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})=\stackrel{\rightarrow}{u} \cdot \stackrel{\rightarrow}{v}$$
+> **Atansyon, pwen enpòtan**: pwodwi eskalè 2 vektè pa depann de chwa [baz vektoyel](/fizikkreyol/maths/vector_space/##2) lan
+
+> Sou sit la nap itilize notasyon sa pou pwodwi eskalè: $$f(\stackrel{\rightarrow}{u}, \stackrel{\rightarrow}{v})=\stackrel{\rightarrow}{u} \cdot \stackrel{\rightarrow}{v}$$
 
 Se yon zouti matematik ki itlize anpil pou defini distans, e se yon konsèp nap bezwen pou nou defini yon lòt konsèp matematik ki rele espas vektoryel eklidyen.
 
-**Kijan nou ka kalkile yon pwodwi eskalè ?** An nou gade sa nan paj sa
+**Kijan nou ka kalkile yon pwodwi eskalè ?** An nou gade sa nan [paj sa](/fizikkreyol/maths/dot_product_algebra)
