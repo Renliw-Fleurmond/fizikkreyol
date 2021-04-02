@@ -2,9 +2,9 @@
 permalink: /maths/trigonometry
 ---
 
-# Trignometri
+# Trigonometri
 
-> **Trignometri se etid relation ki egziste nan mitan ang ak kote yon triyang**
+> **Trignometri se etid relasyon ki egziste nan mitan ang ak kote yon triyang**
 
 An nou gade senp ti triyang sa :
 
@@ -15,78 +15,78 @@ Nou wè li gen 3 ang (*Se sa ki ba li non li "tri-angle" an fransè*)
 Nou wè ke ang sa yo $$\alpha$$, $$\beta$$, $$\gamma$$ yo relye youn ak lot.
 Pa egzanp si $$\alpha$$ rete jan li ye a, nou ka wè ke depi nou laji $$\beta$$, $$\gamma$$ ap vin pi piti, epi kote triyang ki an fas $$\beta$$ ap vinn pi long. 
 
-Ki relasyon genyen ant ang sa yo, ak longè kote tryang lan? Se egzatemean sa 
+Ki relasyon genyen ant ang sa yo, ak longè kote triyang lan? Se egzakteman sa 
 **trigonometri** ap etidye.
 
 ## Ang, konvansyon ak inite
 
 Pou nou pa pèdi an nou fokis sou ang $$\alpha$$.
 
-Si nou trase yon sèk, ke nou byen enstalè nan yon repè, nou ka defini yon san (*oryantasyon*) pour yon ang.
+Si nou trase yon sèk, ke nou byen enstalè nan yon repè, nou ka defini yon **sans** (*oryantasyon*) pou yon ang.
 
 ![Nap vini ak sèk initè](/fizikkreyol/assets/trigonometry/tryang_ak_sek_initè.png)
 
-> Sans ang ke nou mantre nan imaj la rele  **sans dirèk**, lòt sans lan rele endirèk.Se yon **konvansyon**, sa vle di se yon group moun ki deside rele li konsa pou you tout ka konnen de kisa yap pale.
+> Sans ang ke nou montre nan imaj la rele  **sans dirèk**, lòt sans lan rele **sans endirèk** .Se yon **konvansyon**, sa vle di se yon gwoup moun ki deside rele li konsa pou yo tout ka konnen de kisa yap pale.
 
-Nou ka wè ke pozisyon yon pwen sou sèk la depann de ang li fè. Sa vle li ekziste yon fonksyon ki depi nou ba li yon ang, ap bay yon pwen sou sèk sa.
+Nou ka wè ke pozisyon yon pwen sou sèk la depann de ang li fè. Sa vle di, ke gen yon fonksyon, ki depi nou ba li yon ang, ki ka bay yon pwen sou sèk sa.
 
-Lè nou gade imaj lan nou wè ke si nou kenbe ang lan, men rayon sèk la varye, longè $$l$$ koub lan ap varye propòsyonelman ak rayon $$r$$ an. Menm jan si nou varye ang lan $$\alpha$$, men nou kenbe rayon an fiks, longè koup lan pral varye menm jan avek ang lan.
+Lè nou gade imaj lan, nou wè ke si nou kenbe ang lan, men rayon sèk la varye, longè $$l$$ koub lan ap varye pwopòsyonèlman ak reyon $$r$$ lan. Menm jan, si nou varye ang lan $$\alpha$$, men nou kenbe reyon an fiks, longè koub lan pral varye menm jan avek ang lan.
 
-Ke nou ka ekri an matematik:
+Tout sa, nou ka ekri li ak fòmil matematik:
 
 $$l \propto r $$ 
 
 $$l \propto \alpha$$ 
 
-Sa ki vle di
+Sa ki vle di:
 
 $$l \propto \alpha \times r \implies \alpha \propto \frac{l}{r}$$
 
-Ang $$\alpha$$ propòsyonel ak yon longè divise pa yon lòt longè. Sa vle di yon ang se pa yon longè, ni yon sifas, se yon grandè **san inite fizik**.
+Ang $$\alpha$$ propòsyonel ak yon rapò:  longè ki divise pa yon lòt longè. Sa vle di yon ang se pa yon longè, ni yon sifas, se yon grandè **san inite fizik**.
 
-Pour senplifye la vi nou defini inite pou ang. Inite yo plis itilize nan matematik se radyan
+Pou senplifye la vi nou, nou defini yon *inite* pou ang. Inite ke yo plis itilize nan matematik se **radyan**
 
-> Yon **radyan** se grosè yon ang, ki bay yon ak de sèk ki gen menm longè ak rayon sèk lan. Yon **radyan** se grosè yon ang, ki pou yon sèk ki gen longè $$1$$ bay yon ak de sèk ki gen longè $$1$$.
+> Yon **radyan** se gwosè yon ang, ki bay yon **ak de sèk** ki gen menm longè ak rayon sèk lan. Yon **radyan** se gwosè yon ang, ki pou yon sèk ki gen longè $$1$$ bay yon ak de sèk ki gen longè $$1$$.
 
-Nou ka wè tou ke depi nou fè yon tou konplè sèk la nou retounen nan menm pwen kote nou te komanse.
+Nou ka wè tou,  ke depi nou fè yon tou konplè sèk la,  nou retounen nan menm pwen kote nou te komanse a.
  
-> **Pou rezon istorik, nou defini [$$\pi$$](https://fr.wikipedia.org/wiki/Pi) kòm grosè yon ang ki bay yon ak de sèk, ki mwatye perimèt tout sèk lan**. Ki fè longè perimèt yon sèk se $$2\pi r$$
+> **Pou rezon istorik, nou defini [$$\pi$$](https://fr.wikipedia.org/wiki/Pi) kòm gwosè yon ang, ki bay yon ak de sèk ki mwatye perimèt tout sèk lan**.  Ki fè longè perimèt yon sèk se $$2\pi r$$
 
 ![Desen yon sèk initè](/fizikkreyol/assets/trigonometry/sèk_initè.png)
 
-> $$\pi$$ se yon nomb ki gen yon pakèt istwa e li itilize anpil nan tout domèn la syans. Pou konnen plis ou ka komanse sou [Wikipédia](https://fr.wikipedia.org/wiki/Pi)
+> $$\pi$$ se yon nonb ki gen yon pakèt istwa e li itilize anpil nan tout domèn la syans. Pou konnen plis ou ka komanse li atik [Wikipédia sa](https://fr.wikipedia.org/wiki/Pi)
 
-## Fonksyon Sinis ak Kosinis
+## Fonksyon Sinis (*sinus* an fransè) ak Kosinis (*cosinus* an fransè)
 
 An nou gade imaj sa 
 
 ![Definisyon Cosinis ak Sinis](/fizikkreyol/assets/trigonometry/kosinis_ak_sinis.png)
 
-Pozisyon pwen sou sèk lan depann direkateman de ang lan. Pwozisyon pwen an ka dekri avek 2 kowòdone an $$x$$ ak $$y$$
+Pozisyon pwen sou sèk lan depann direkteman de ang lan. Pozisyon pwen an ka dekri avèk 2 kowòdone ki se $$x$$ ak $$y$$.
 
-Nou wè ke de kowòdone sa yon depann de ang $$\alpha$$. Sa pral pèmèt nou **defini** 2 fonksyon:
+Nou wè ke de kowòdone sa yo, depann de ang $$\alpha$$. Sa pral pèmèt nou **defini** 2 fonksyon:
 
-> **Fonksyon kosinis**: $$\cos(\alpha)$$ se kowòdone $$x$$ yon pwèn sou sèk initè a ki nan yon ang $$\alpha$$
+> **Fonksyon kosinis**: $$\cos(\alpha)$$ se kowòdone $$x$$ yon pwen sou sèk initè a ki nan yon ang $$\alpha$$.
 
-> **Fonksyon Sinis**: $$\sin(\alpha)$$ se kowòdone $$y$$ yon pwèn sou sèk initè a ki nan yon ang $$\alpha$$
+> **Fonksyon Sinis**: $$\sin(\alpha)$$ se kowòdone $$y$$ yon pwen sou sèk initè a ki nan yon ang $$\alpha$$.
 
-Sa yo se definisyon fonksyon sa yo,
+Sa yo se de
  dapre li fonksyon *kosinis* ak *sinis* toujou bay yon valè ki ant $$-1$$ ak $$1$$
 
-Gen yon premye ekwasyon ke nou ka jwenn ki rele 2 fonskyon sa yo.
+Gen yon premye ekwasyon ke nou ka jwenn ki relye 2 fonskyon sa yo.
 
-Nou ka wè gen 2 tryang rektang, nenpòt ladan yo ka pèmèt nou itilize [teyorèm Pytagò](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Pythagore)
+Nou ka wè gen 2 triyang rektang, nenpòt ladan yo ka pèmèt nou itilize [teworèm Pytagò](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_de_Pythagore)
 pou ekri:
 
 $$\forall \alpha,\  \cos(\alpha)^2 + \sin(\alpha)^2 = 1 $$
 
-Sèlman nan gade imaj sa, nou ka wè kek lòt karakterisk fonksyon sa, nou ka wè ke de fonksyon sa yo periodik
+Sèlman nan gade imaj sa, nou ka wè kèk lòt karakteristik fonksyon sa, nou ka wè ke 2 fonksyon sa yo peryodik
 
 $$f(x) = f(x + 2 k\pi),\ \forall k \in \mathbb{Z}$$
 
-Nou wè ke peryod lan se $$2\pi$$ ki se ang ki nesesè pou fè tou sèk la.
+Nou wè ke peryod lan se $$2\pi$$, ki se ang ki nesesè pou fè tou sèk la.
 
-Lè nou gade imaj sa nou ka gentan wè egalite sa yo:
+Lè nou gade imaj sa nou ka gentan wè egalite sa yo, avek yon ti imajinasyon
 
 ![Definisyon Cosinis ak Sinis](/fizikkreyol/assets/trigonometry/ang_konplemantè.png)
 
