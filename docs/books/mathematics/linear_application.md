@@ -9,7 +9,7 @@ An nou konsidere 2 [espas vektoryèl](/fizikkreyol/maths/vector_space) E ak F.
 
 Yon fonksyon g: $$E \rightarrow F$$ se yon fonksyon ki pran yon vektè nan makòn E e ki bay kom rezilta yon [vektè](/fizikkreyol/maths/vector) nan makòn F.
 
-![blabla](/fizikkreyol/assets/linear_application/aplikasyon_lineyè.png)
+![represantasyon yon aplikasyon linyè](/fizikkreyol/assets/linear_application/aplikasyon_lineyè.png)
 
 Nou ka rele fonksyon sa yon **aplikasyon lineyè*** si li ranpli kondisyon sa:
 
