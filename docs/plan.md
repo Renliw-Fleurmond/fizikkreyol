@@ -2,8 +2,11 @@
 permalink: /plan/
 ---
 # Tab matyè
+(Paj sa ap konstwi)
 
 - [Matematik pou Fizik](/fizikkreyol/maths/maths)
+
+  - [Trigonometri](/fizikkreyol/maths/trigonometry)
 
   - Ti nosyon [Aljèb](/fizikkreyol/maths/algebra)
     - [Eskalè](/fizikkreyol/maths/scalar)
