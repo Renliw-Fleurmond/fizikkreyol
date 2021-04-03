@@ -25,11 +25,11 @@ Nou ka remake, tèt pyebwa a, pye pyebwa a, ak pwent lonbraj li atè a (*nap sip
 
 > Yon tryan **rektang** se yon triyang ki genyen yon **ang ki dwat**
 
-Nou ka fè yon desen tryiang **rektang** sa sou papye:
+Nou ka fè yon desen triyang **rektang** sa sou papye:
 
 ![Desen yon triyang ki rektang](/fizikkreyol/assets/trigonometry/triyang_rektang.png)
 
-Si nou sipoze gen triyang sou papye gen **mènm fòm** ak triyang pyebwa a fè ak lonbraj li ([*Teworèm triyang ki sanble*](https://fr.wikipedia.org/wiki/Triangles_semblables)) Nou ka kalkile wotè pyebwa a.
+Si nou sipoze, ke triyang sou papye gen **mènm fòm** ak triyang pyebwa a fè ak lonbraj li ([*Teworèm triyang ki sanble*](https://fr.wikipedia.org/wiki/Triangles_semblables)), nou ka kalkile wotè pyebwa a.
 
 > Si de triyang sanble, yo gen menm ang, e **rapò ant longè yo** menm
 
@@ -64,7 +64,7 @@ Nou ka bay chak rapò sa yo non, (*pa rapò ak ang $$\alpha$$*):
 
 
 > **Atansyon**: Nou ka remake ke notasyon matematik sa, respekte òtograf angle ak franse.
-> Pou moman an nou deside kenbe notasyon sa, paske notasyon sa itilize nan tout peyi ki itilize alfabè laten tankou nou,
+> Pou moman an, nou deside kenbe notasyon sa, paske notasyon sa itilize nan tout peyi ki itilize alfabè laten tankou nou,
 pou fasilite konpreyanson de yon lang ak yon lòt.
 > Men nou te ka deside ekri: **sek** pou sekant, **kos** pou kosinis, **ksk** pou kosekant ak **kot** pou kotanjant.
 
@@ -276,7 +276,7 @@ Kijan pou nou ta kalkile wotè yon mòn?
 
 > An nou imajine nap fè rout nan direksyon yon mòn, rout la byen plat (*orizontal*).
 > Nan yon premye tan nou mezire yon ang $$\beta$$, ke tèt mòn nan fè ak orizontal la.
-> Apre nou finn kouri yon distans $d$, nan direksyon mòn nan, nou wè ke tèt mòn nan fè yon ang $$\alpha$$ ak orizontal lan.
+> Apre nou finn kouri yon distans $$d$$, nan direksyon mòn nan, nou wè ke tèt mòn nan fè yon ang $$\alpha$$ ak orizontal lan.
 > Eske nou ka kalkile wotè mòn nan $$h$$ ?
 
 Trigonometri pèmèt nou kalkilè wotè mòn nan san nou pa bezwen monte sou tèt li:
